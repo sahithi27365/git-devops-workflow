@@ -1,0 +1,17 @@
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
